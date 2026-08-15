@@ -1,0 +1,30 @@
+[
+  {
+    "title": "1 Week",
+    "price": "₹699",
+    "bowls": "6 Fresh Bowls",
+    "popular": false,
+    "message": "Hi FDB! I'd like to subscribe to the 1 Week Plan (₹699). Please share the next steps."
+  },
+  {
+    "title": "2 Weeks",
+    "price": "₹1,539",
+    "bowls": "12 Fresh Bowls",
+    "popular": false,
+    "message": "Hi FDB! I'd like to subscribe to the 2 Weeks Plan (₹1,539). Please share the next steps."
+  },
+  {
+    "title": "Monthly",
+    "price": "₹2,749",
+    "bowls": "24 Fresh Bowls",
+    "popular": true,
+    "message": "Hi FDB! I'd like to subscribe to the Monthly Plan (₹2,749). Please share the next steps."
+  },
+  {
+    "title": "3 Months",
+    "price": "₹8,249",
+    "bowls": "72 Fresh Bowls",
+    "popular": false,
+    "message": "Hi FDB! I'd like to subscribe to the 3 Months Plan (₹8,249). Please share the next steps."
+  }
+]
