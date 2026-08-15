@@ -4,6 +4,12 @@
     "price": "₹699",
     "bowls": "6 Fresh Bowls",
     "popular": false,
+    "features": [
+      "Freshly Prepared Daily",
+      "Pure Vegetarian",
+      "Healthy Ingredients",
+      "WhatsApp Support"
+    ],
     "message": "Hi FDB! I'd like to subscribe to the 1 Week Plan (₹699). Please share the next steps."
   },
   {
@@ -11,6 +17,12 @@
     "price": "₹1,539",
     "bowls": "12 Fresh Bowls",
     "popular": true,
+    "features": [
+      "Freshly Prepared Daily",
+      "Pure Vegetarian",
+      "Healthy Ingredients",
+      "WhatsApp Support"
+    ],
     "message": "Hi FDB! I'd like to subscribe to the 2 Weeks Plan (₹1,539). Please share the next steps."
   },
   {
@@ -18,13 +30,25 @@
     "price": "₹2,769",
     "bowls": "24 Fresh Bowls",
     "popular": false,
-    "message": "Hi FDB! I'd like to subscribe to the Monthly Plan (₹2,749). Please share the next steps."
+    "features": [
+      "Freshly Prepared Daily",
+      "Pure Vegetarian",
+      "Healthy Ingredients",
+      "WhatsApp Support"
+    ],
+    "message": "Hi FDB! I'd like to subscribe to the Monthly Plan (₹2,769). Please share the next steps."
   },
   {
     "title": "3 Months",
     "price": "₹8,249",
     "bowls": "72 Fresh Bowls",
     "popular": false,
+    "features": [
+      "Freshly Prepared Daily",
+      "Pure Vegetarian",
+      "Healthy Ingredients",
+      "WhatsApp Support"
+    ],
     "message": "Hi FDB! I'd like to subscribe to the 3 Months Plan (₹8,249). Please share the next steps."
   }
 ]
