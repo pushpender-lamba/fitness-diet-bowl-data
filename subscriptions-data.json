@@ -10,14 +10,14 @@
     "title": "2 Weeks",
     "price": "₹1,539",
     "bowls": "12 Fresh Bowls",
-    "popular": false,
+    "popular": true,
     "message": "Hi FDB! I'd like to subscribe to the 2 Weeks Plan (₹1,539). Please share the next steps."
   },
   {
     "title": "Monthly",
     "price": "₹2,769",
     "bowls": "24 Fresh Bowls",
-    "popular": true,
+    "popular": false,
     "message": "Hi FDB! I'd like to subscribe to the Monthly Plan (₹2,749). Please share the next steps."
   },
   {
