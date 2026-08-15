@@ -1,0 +1,62 @@
+[
+  {
+    "title": "🥗 Sprouts Chaat",
+    "items": [
+      {
+        "name": "Moong Sprouts Chaat",
+        "price": 119,
+        "description": "Fresh moong sprouts, vegetables, lemon and mild spices"
+      },
+      {
+        "name": "Protein Sprouts Chaat",
+        "price": 129,
+        "description": "Extra sprouts with roasted peanuts and seeds"
+      },
+      {
+        "name": "Paneer Sprouts Chaat",
+        "price": 149,
+        "description": "Protein-rich sprouts topped with paneer cubes"
+      },
+      {
+        "name": "Power Sprout Chaat",
+        "price": 119,
+        "description": "Fresh chana sprouts with vegetables and spices"
+      }
+    ]
+  },
+  {
+    "title": "🌽 Corn Chaat",
+    "items": [
+      {
+        "name": "Classic Sweet Corn Chaat",
+        "price": 119,
+        "description": "Sweet corn with lemon and traditional chaat masala"
+      },
+      {
+        "name": "Protein Corn Chaat",
+        "price": 119,
+        "description": "Corn blended with peanuts and healthy seeds"
+      },
+      {
+        "name": "Paneer Corn Chaat",
+        "price": 129,
+        "description": "Sweet corn with fresh paneer cubes"
+      }
+    ]
+  },
+  {
+    "title": "💪 Power Combos",
+    "items": [
+      {
+        "name": "Sprouts + Corn Mix",
+        "price": 129,
+        "description": "Balanced combination of taste and nutrition"
+      },
+      {
+        "name": "Protein Power Mix",
+        "price": 159,
+        "description": "Sprouts + corn + paneer + seeds"
+      }
+    ]
+  }
+]
