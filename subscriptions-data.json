@@ -14,7 +14,7 @@
   },
   {
     "title": "2 Weeks",
-    "price": "₹1,539",
+    "price": "₹1,549",
     "bowls": "12 Fresh Bowls",
     "popular": true,
     "features": [
@@ -27,7 +27,7 @@
   },
   {
     "title": "Monthly",
-    "price": "₹2,769",
+    "price": "₹2,799",
     "bowls": "24 Fresh Bowls",
     "popular": false,
     "features": [
@@ -40,7 +40,7 @@
   },
   {
     "title": "3 Months",
-    "price": "₹8,249",
+    "price": "₹8,199,
     "bowls": "72 Fresh Bowls",
     "popular": false,
     "features": [
